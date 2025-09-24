@@ -2,7 +2,6 @@ const resume = {
   hero: {
     name: 'Payal Ingle',
     title: 'DevOps and Cloud Engineer',
-    location: 'Amravati, Maharashtra, IN',
     email: 'payalingle147@gmail.com',
     phone: '+91-7888158609',
     photo: '/payal.jpg',
