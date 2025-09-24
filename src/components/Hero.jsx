@@ -14,7 +14,9 @@ export default function Hero({ data }) {
             {resumeUrl && <a className="btn secondary" href={resumeUrl} target="_blank" rel="noreferrer">Resume</a>}
           </div>
         </div>
-
+        <div className="hero-photo">
+          <img src="/Home.png" alt="Home" onError={(e) => { e.target.src = '/Home.png'; }} />
+        </div>
       </div>
     </section>
   )
