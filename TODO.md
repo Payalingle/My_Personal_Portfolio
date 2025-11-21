@@ -1,0 +1,5 @@
+- [x] Change .btn.secondary:hover box-shadow from rgba(238, 34, 34, 0.28) to rgba(34,211,238,0.28)
+- [x] Change .btn:focus-visible box-shadow from rgba(238, 34, 34, 0.993) to rgba(34,211,238,0.993)
+- [x] Change .btn::after background linear-gradient from rgba(224, 9, 9, 0.842) to rgba(34,211,238,0.842)
+- [x] Change .btn.nav background from linear-gradient(135deg, #8463d0, #8463d0) to blue gradient, e.g., linear-gradient(135deg, #6c8cff, #22d3ee)
+- [x] Change .btn.nav:hover background to brighter blue, e.g., linear-gradient(135deg, #5a7edb, #1fa9ff)
