@@ -74,6 +74,21 @@ const resume = {
           demo: ''
         }
       },
+       {
+        name: 'Full Stack Application',
+        date: 'Feb 2023 - Oct 2023',
+        details: [
+          'Built a full-stack web application with a responsive frontend and secure backend APIs.',
+          'Implemented user authentication, form handling, and database integration for real-time data updates.',
+          'Designed RESTful APIs and connected them to the frontend using Axios/Fetch.',
+          'Ensured modular architecture with reusable components and clean backend routing.'
+        ],
+        skills: ['React', 'Node.js', 'Express.js', 'MongoDB/MySQL', 'REST API', 'JavaScript', 'HTML', 'CSS'],
+        actions: {
+           repo: 'https://github.com/Payalingle/Payalingle-Full_Stack_Application.git',
+           demo: ''
+        }
+      },
       {
         name: 'WordPress Deployment on AWS',
         date: 'Mar 2025',
@@ -86,6 +101,36 @@ const resume = {
           repo: 'https://github.com/Payalingle/Deploy-wordpress-Website-on-Aws-.git',
           demo: ''
         }
+      },
+      {
+        name: 'React Frontend Application',
+        date: 'Feb 2024',
+        details: [
+          'Developed a responsive React-based frontend with reusable components.',
+          'Implemented state management using React Hooks for dynamic UI updates.',
+          'Integrated API calls for fetching and displaying real-time data.',
+          'Enhanced UI/UX with modern layouts, routing, and interactive components.'
+        ],
+        skills: ['React', 'JavaScript', 'HTML', 'CSS', 'React Hooks', 'REST API', 'Git'],
+        actions: {
+          repo: 'https://github.com/Payalingle/React_Application.git',
+          demo: ''
+        }
+        },
+      {
+        name: 'Payment API Integration App',
+        date: 'Mar 2023',
+        details: [
+          'Built a web application to integrate third-party payment APIs.',
+          'Implemented secure transaction flows, handling payment requests and responses via REST endpoints.',
+          'Validated payment inputs and handled error cases (failed, canceled, or successful payments).',
+          'Integrated webhook support for real-time transaction updates.'
+      ],
+        skills: ['JavaScript', 'Node.js', 'Express', 'REST API', 'Payment Gateways', 'API Integration', 'Security', 'JSON'],
+        actions: {
+          repo: 'https://github.com/Payalingle/Payment-API-Integration-App.git',
+          demo: ''
+      }
       }
   ],
   education: [
